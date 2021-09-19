@@ -113,6 +113,8 @@ body{
   margin-bottom: 2em;
  }
 
-
-  
+  .content{
+    display: flex;
+    flex-direction: column-reverse;
+  }
 }
